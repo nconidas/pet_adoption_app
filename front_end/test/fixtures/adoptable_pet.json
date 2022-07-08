@@ -1,0 +1,13 @@
+{
+    "petId": 1,
+    "name": "MoonCake",
+    "species": "dog",
+    "breed": "german_shepherd",
+    "description": "Good Dog",
+    "weight": "large",
+    "age": "adult",
+    "imageUrls": [
+        "htttp://example.com/1",
+        "http://example.com/2"
+    ]
+}

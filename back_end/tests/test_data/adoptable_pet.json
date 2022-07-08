@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "name": "fido",
+  "organization_id": "1",
+  "size": "LARGE",
+  "tags": [
+    "smart",
+    "playful"
+  ],
+  "breeds": [
+    "gsd",
+    "lab"
+  ]
+}

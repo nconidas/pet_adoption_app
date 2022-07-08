@@ -1,0 +1,15 @@
+{
+    "categoryName": "test",
+    "adoptablePetList": [
+        {
+            "petId": 1,
+            "name": null,
+            "species": null,
+            "breed": null,
+            "description": null,
+            "weight": null,
+            "age": null,
+            "imageUrls": null
+        }
+    ]
+}
